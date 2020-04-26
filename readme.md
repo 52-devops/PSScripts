@@ -1,8 +1,9 @@
 # REPOSITORY NAME: PSScript
-# README
+## README
 
-# Description
-
+### Description
+#### Script:	CiscoAnyConnect_User_Preferences_XML.ps1
+#### Purpose:  Create a preferences.xml file in localappdata, will overwrite existing file. 
 
 ## Maintainers
 ![Image](https://pbs.twimg.com/profile_images/850313274465947648/Eg6xmQWH_400x400.jpg)

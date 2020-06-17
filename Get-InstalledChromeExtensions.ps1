@@ -5,6 +5,7 @@
 # Date:     June 17, 2020
 # Comments: Internal extensions by Google are excluded from the CSV
 # Notes:    This script can be run for a logged-on user to list installed extensions.
+# Credits:  Steviecoaster on Reddit.com https://www.reddit.com/r/PowerShell/comments/5px71w/getting_chrome_extensions/
 $targetdir = "$env:LOCALAPPDATA\Google\Chrome\User Data\Default\Extensions" 
 $extensions = Get-ChildItem $targetdir 
 $obj = ""

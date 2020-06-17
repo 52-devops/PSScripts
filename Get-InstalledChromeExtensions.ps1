@@ -1,7 +1,7 @@
 # Script:	Get-InstalledChromeExtensions.ps1
 # Purpose:  This script lists installed Google Chrome Extensions for a user.
-# Author:   
-# Email:	
+# Author:   52-DevOps
+# Email:	fiftytwo.devops@gmail.com
 # Date:     June 17, 2020
 # Comments: Internal extensions by Google are excluded from the CSV
 # Notes:    This script can be run for a logged-on user to list installed extensions.

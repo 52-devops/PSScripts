@@ -2,9 +2,9 @@
 
 # Purpose:  This script will download latest version of the vs_installer from https://visualstudio.microsoft.com and update installed versions of Visual Studio.
 
-# Author:   Shabbir Talib
+# Author:   52-DevOps
 
-# Email:  sstalib@hotmail.com
+# Email:	fiftytwo.devops@gmail.com
 
 # Date:     October 2020
 

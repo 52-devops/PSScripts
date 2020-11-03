@@ -16,7 +16,7 @@
 
 #           The installer will download needed files from Microsoft websites.
 
-#           
+#           https://developercommunity.visualstudio.com/content/problem/307261/unattend-self-update-of-vs-installer.html
 
 $transcriptfilename = Get-Date -Format MMMddyyyyhhmmss
 
